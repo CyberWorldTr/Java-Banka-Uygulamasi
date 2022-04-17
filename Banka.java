@@ -6,7 +6,7 @@ public class ATM {
 	
 	public static void main(String[] args){
 	Scanner sc = new Scanner(System.in);
-	int pin = 3131;
+	int pin = 3232;
     int deneme = -2;
 	String kullanici;
 	System.out.println("****At Bank'a Hosgeldiniz****");
